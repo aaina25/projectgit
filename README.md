@@ -1,1 +1,1 @@
-Hi this is my first gitproject.
+my git sample codegit 
